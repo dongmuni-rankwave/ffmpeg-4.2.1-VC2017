@@ -118,7 +118,6 @@
     <ClCompile Include="dnn_interface.c" />
     <ClCompile Include="drawutils.c" />
     <ClCompile Include="ebur128.c" />
-    <ClCompile Include="filter_list.c" />
     <ClCompile Include="f_bench.c" />
     <ClCompile Include="f_cue.c" />
     <ClCompile Include="f_drawgraph.c" />

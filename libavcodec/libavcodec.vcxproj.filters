@@ -2428,15 +2428,6 @@
     <ClCompile Include="x86\x86_dummy.c">
       <Filter>Source Files %28x86%29</Filter>
     </ClCompile>
-    <ClCompile Include="bsf_list.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="codec_list.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="parser_list.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="x86\aacencdsp_init.c">

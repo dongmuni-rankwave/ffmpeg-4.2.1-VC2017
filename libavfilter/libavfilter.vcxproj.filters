@@ -877,9 +877,6 @@
     <ClCompile Include="x86\x86_dummy.c">
       <Filter>Source Files %28x86%29</Filter>
     </ClCompile>
-    <ClCompile Include="filter_list.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="x86\af_afir_init.c">

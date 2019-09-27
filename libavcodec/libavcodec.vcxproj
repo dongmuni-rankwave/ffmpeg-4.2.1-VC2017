@@ -134,7 +134,6 @@
     <ClCompile Include="bmvvideo.c" />
     <ClCompile Include="brenderpix.c" />
     <ClCompile Include="bsf.c" />
-    <ClCompile Include="bsf_list.c" />
     <ClCompile Include="bswapdsp.c" />
     <ClCompile Include="c93.c" />
     <ClCompile Include="cabac.c" />
@@ -170,7 +169,6 @@
     <ClCompile Include="cngenc.c" />
     <ClCompile Include="codec2utils.c" />
     <ClCompile Include="codec_desc.c" />
-    <ClCompile Include="codec_list.c" />
     <ClCompile Include="cook.c" />
     <ClCompile Include="cook_parser.c" />
     <ClCompile Include="cpia.c" />
@@ -557,7 +555,6 @@
     <ClCompile Include="pamenc.c" />
     <ClCompile Include="parser.c" />
     <ClCompile Include="parsers.c" />
-    <ClCompile Include="parser_list.c" />
     <ClCompile Include="pcm-bluray.c" />
     <ClCompile Include="pcm-dvd.c" />
     <ClCompile Include="pcm-dvdenc.c" />

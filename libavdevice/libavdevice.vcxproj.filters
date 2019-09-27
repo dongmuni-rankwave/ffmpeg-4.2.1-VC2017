@@ -60,12 +60,6 @@
     <ClCompile Include="vfwcap.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="indev_list.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="outdev_list.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="alsa.h">
