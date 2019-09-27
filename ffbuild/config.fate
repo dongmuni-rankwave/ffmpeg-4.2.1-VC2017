@@ -1,0 +1,1 @@
+config:x86:x86_64:generic:win64:Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64:--toolchain=msvc --enable-shared --target-os=win64 --arch=x86_64
